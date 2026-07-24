@@ -8,8 +8,8 @@
   /* ---------------------------------------------------------
      Config
   --------------------------------------------------------- */
-  const TELEGRAM_CHANNEL_URL = 'https://t.me/YOURCHANNEL'; // <-- replace YOURCHANNEL
-  const REDIRECT_SECONDS = 15;
+  const TELEGRAM_CHANNEL_URL = 'https://t.me/+orXtFMVTf4kxNWY1'; // <-- replace YOURCHANNEL
+  const REDIRECT_SECONDS = 30;
 
   /* ---------------------------------------------------------
      Utility: safe event tracking (Meta Pixel + GA4)
